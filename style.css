@@ -6,7 +6,7 @@
 body {
   margin: 0;
   background-color: whitesmoke;
-  display: grid;
+  
   
 }
 h1 {
@@ -54,7 +54,7 @@ footer{
   color: white;
   background-color: green;
   bottom: 0;
-  position: absolute;
+  position: fixed;
   padding: 1em 0;
 
 }
