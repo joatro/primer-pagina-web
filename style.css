@@ -45,7 +45,7 @@ img {
   /*border-radius: 50%; */
   object-fit: cover;
   padding-top: 10px;
-  align: center;
+  align: inline-flex;
    
 }
 footer{
