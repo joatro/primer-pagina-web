@@ -38,19 +38,11 @@ nav li:hover {
   background-color: white;
 
 }
-iframe {
-  width: 80%;
-  height: 550px;
-  position: center;
-  padding: auto;
-  
-}
-
 
 img {
   width: 200px;
   height: 200px;
-  border-radius: 50%;
+  /*border-radius: 50%; */
   object-fit: cover;
    
 }
