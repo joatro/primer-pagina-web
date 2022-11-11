@@ -20,3 +20,14 @@ window.addEventListener('load',function(){
 
     setInterval(cambiarImagenes,tiempo);
 });
+
+
+function getHour(){
+    const h = new Date();
+    const hours = ((h.getHours() < 10 )? "0" : "") + h.getHours();
+    const minutes = ((h.getMinutes() < 10 )? "0" : "") + h.getMinutes();
+    const secs = ((h.getSeconds() < 10 )? "0" : "") + h.getSeconds();
+
+    document.write("LocalTme:" + hours+ ":" + minutes + ":" + secs);
+}
+getHour();
