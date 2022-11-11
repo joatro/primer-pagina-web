@@ -1,5 +1,5 @@
 window.addEventListener('load',function(){
-    console.log('el contenido ha cargado!')
+    
     var imagenes = [];
     imagenes[0] = 'img/imagen1.jpg';
     imagenes[1] = 'img/imagen2.jpg';
