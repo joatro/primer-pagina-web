@@ -69,7 +69,7 @@ footer{
   border-top: 2px solid rgba(195, 193, 193, 0.5);
   margin-top: 40px;
   bottom: 0;
-  position:relative;
+  position:absolute;
   text-align: center;
   padding: 20px;
   font-size: 75%;
