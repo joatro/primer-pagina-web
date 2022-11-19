@@ -112,7 +112,7 @@ footer{
   width: 70vw;
   margin:0 auto;
   bottom: 0;
-  position: relative;
+  position: fixed;
   text-align: center;
   padding: 30px;
   font-size: 75%;
