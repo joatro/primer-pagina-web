@@ -5,7 +5,7 @@
 }
 
 body{
- background: rgba(244,237,237,0.8);
+ background: rgba(70,70,70,.5);
 }
 
   .contenido{
@@ -39,7 +39,7 @@ h2{
 h1{
   
   text-align: center;
-  background-color: #79BFA1;
+  background-color: rgb(38,118,1);
   color: white;
   padding: 50px;
   text-shadow: 1px 3px 4px black;
