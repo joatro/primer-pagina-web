@@ -17,7 +17,7 @@ window.addEventListener('load',function(){
     function cambiarImagenes(){
         
         document.slider.src = imagenes[indiceImagenes];
-        if(indiceImagenes < 2){
+        if(indiceImagenes < 6){
             indiceImagenes ++;
         }else{
             indiceImagenes = 0;
