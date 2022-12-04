@@ -16,6 +16,7 @@ body{
      text-align: fixed;
      padding: 30px 20px;
      font-family: 'Times New Roman', Times, serif;
+     font-size: larger;
      position: relative;
   padding-bottom: 58px;
   min-height: calc(100vh - 211px - 58px);
