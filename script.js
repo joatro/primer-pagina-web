@@ -27,40 +27,11 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [{
 		name: "first song",
-		path: "song1.mp3",
+		path: "fe.mp3",
 		img: "img/img1.jpg",
 		singer: "1"
-	},
-	{
-		name: "second song",
-		path: "song2.mp3",
-		img: "img/img2.jpg",
-		singer: "2"
-	},
-	{
-		name: "tercer song",
-		path: "Relax.mp3",
-		img: "img/img3.jpg",
-		singer: "3"
-	},
-	{
-		name: "",
-		path: " ",
-		img: "img/img3.jpg",
-		singer: "4"
-	},
-	{
-		name: " ",
-		path: "",
-		img: "img/img3.jpg",
-		singer: "4"
-	},
-	{
-		name: " ",
-		path: " ",
-		img: "img/img3.jpg",
-		singer: "4"
 	}
+
 ];
 
 
