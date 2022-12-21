@@ -27,7 +27,7 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [{
 		name: "first song",
-		path: "fe.mp3",
+		path: ".mp3",
 		img: "jpg",
 		singer: "1"
 	}
