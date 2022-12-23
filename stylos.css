@@ -3,14 +3,13 @@
 body {
   height: 100vh;
   width: 100%;
-  
   align-items: center;
 }
-header{
-  box-sizing: border-box;
-}
+
+
 
   .main {
+    
     position: relative;
     height: 80%;
     width: 80%;
