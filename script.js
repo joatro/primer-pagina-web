@@ -31,12 +31,25 @@ let All_song = [{
 		img: "jpg",
 		singer: "1"
 	},
-{
-	name: "Second song",
-	path: "Vaquero Perdido.mp3",
-	img: "jpg",
-	singer: "2"
-}
+
+	{
+		name: "second song",
+		path: "Dove Love.mp3",
+		img: "jpg",
+		singer: "2"
+	},
+	{
+		name: "third song",
+		path: "Vaquero Perdido.mp3",
+		img: "jpg",
+		singer: "2"
+	},
+	{
+		name: "fourth song",
+		path: "Chiapas Marimba.mp3",
+		img: "jpg",
+		singer: "2"
+	}
 ];
 
 
