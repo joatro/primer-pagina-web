@@ -18,7 +18,7 @@ body {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
-    background: rgb(1, 12, 112);
+    background: linear-gradient(to right, #03019ff2, #829bb4);
   }
   .main button {
     padding: 10px 12px;
@@ -126,19 +126,17 @@ body {
   }
   .right #title {
     position: absolute;
-    top: 60px;
+    top: 10px;
     left: 50%;
     transform: translateX(-50%);
-    text-transform: capitalize;
     color: #fff;
     font-size: 35px;
   }
   .right #artist {
     position: absolute;
-    top: 110px;
+    top: 46px;
     left: 50%;
     transform: translateX(-50%);
-    text-transform: capitalize;
     color: #fff;
     font-size: 18px;
   }

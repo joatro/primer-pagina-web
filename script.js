@@ -26,26 +26,26 @@ let track = document.createElement('audio');
 
 //All songs list
 let All_song = [{
-		name: "first song",
+		name: "first",
 		path: "Sailing.mp3",
 		img: "jpg",
 		singer: "1"
 	},
 
 	{
-		name: "second song",
+		name: "second",
 		path: "Dove Love.mp3",
 		img: "jpg",
 		singer: "2"
 	},
 	{
-		name: "third song",
+		name: "third",
 		path: "Vaquero Perdido.mp3",
 		img: "jpg",
 		singer: "3"
 	},
 	{
-		name: "fourth song",
+		name: "fourth",
 		path: "Chiapas Marimba.mp3",
 		img: "jpg",
 		singer: "4"
