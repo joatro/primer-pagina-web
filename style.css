@@ -1,3 +1,5 @@
+
+
 *{
   padding: 0;
   margin: 0;
@@ -5,13 +7,13 @@
 }
 
 body{
- background: rgba(70,70,70,.5);
+ background: white;
 }
 
 
 
   .contenido{
-      background: rgba(255, 255, 255, 0.9);
+      background: white;
       width: 70vw;
       margin: 0 auto;
      display: -ms-grids;
@@ -22,10 +24,11 @@ body{
      position: relative;
   padding-bottom: 58px;
   min-height: calc(100vh - 211px - 58px);
-
+  border: .25px solid whitesmoke;
   }
   .container img{
       animation: alternate;
+      
 
   }
   
