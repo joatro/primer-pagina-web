@@ -16,6 +16,7 @@ body{
       margin: 0 auto;
      display: -ms-grids;
      text-align: fixed;
+     padding: 30px 20px;
      font-family: 'Times New Roman', Times, serif;
      font-size: large;
      position: absolute;
