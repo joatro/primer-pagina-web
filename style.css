@@ -26,7 +26,7 @@ body{
   box-sizing: border-box;
   }
   .container img{
-      animation: alternate;
+    border-radius: 50%;
       
 
   }
