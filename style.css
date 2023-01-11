@@ -23,6 +23,7 @@ body{
   padding-bottom: 58px;
   min-height: calc(100vh - 211px - 58px);
   border: .50px solid rgb(218, 218, 218);
+  box-sizing: border-box;
   }
   .container img{
       animation: alternate;
