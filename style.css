@@ -43,7 +43,7 @@ h2{
 h1{
   
   text-align: center;
-  background-color: rgb(38,118,1);
+  background: linear-gradient(to right, #0502b8f2, #377d4d);
   color: white;
   padding: 50px;
   text-shadow: 1px 3px 4px black;
